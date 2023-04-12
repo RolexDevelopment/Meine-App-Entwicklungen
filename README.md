@@ -2,7 +2,7 @@
 
 
 
-![Beschreibung des Bildes]([https://link-zum-bild.com](https://github.com/RolexDevelopment/Meine-App-Entwicklungen/blob/main/images.jpeg)/)
+https://link-zum-bild.com](https://github.com/RolexDevelopment/Meine-App-Entwicklungen/blob/main/images.jpeg
 
 Hallo! 
 Mein Name ist Manolito Krause und ich bin ein Junior App Entwickler mit einer Leidenschaft für mobile Anwendungen. 
