@@ -1,6 +1,6 @@
 # Meine App-Entwicklungen
 
-![Beschreibung des Bildes](.RolexDevelopment/Meine-App-Entwicklungen/blob/main/images.jpeg)
+![Beschreibung des Bildes](.blob/main/images.jpeg)
 
 
 Hallo! 
