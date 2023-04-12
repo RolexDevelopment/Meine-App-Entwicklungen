@@ -1,6 +1,6 @@
 # Meine App-Entwicklungen
 
- ![images.jpeg.png](images.jpeg.png) 
+ ![images.jpeg](images.jpeg) 
  
  
 Hallo! 
